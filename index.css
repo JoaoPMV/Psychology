@@ -1,0 +1,148 @@
+.banner {
+  background-image: linear-gradient(
+    45deg,
+    rgb(39, 39, 223),
+    rgb(159, 138, 230)
+  );
+}
+
+.bannerFooter {
+  background-color: rgb(13, 17, 133);
+}
+
+.fundo {
+  background-color: rgb(118, 118, 223);
+}
+
+.paragrafo {
+  font-size: 15px;
+  color: rgb(225, 223, 223);
+}
+
+.footerIcon {
+  font-size: 20px;
+}
+
+.footerIconLaptop {
+  font-size: 25px;
+}
+
+.bannerTitle {
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+  color: white;
+}
+
+.whatsapp {
+  font-size: 15px;
+}
+
+.textBanner {
+  font-size: 16px;
+  line-height: 180%;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.ancora {
+  color: inherit;
+}
+
+.psyBox {
+  border-radius: 15px;
+  box-shadow: 1px 1px 1rem #27049b;
+}
+
+.fonte {
+  font-family: "Gowun Batang", serif;
+}
+
+.online {
+  font-size: 14px;
+  line-height: 150%;
+}
+
+.onlineSmartphone {
+  font-size: 13px;
+  line-height: 150%;
+}
+
+.psyTitle {
+  font-family: "Gowun Batang", serif;
+  color: #27049b;
+}
+
+.foto2 {
+  padding-left: -50px;
+  position: absolute;
+  border: solid 1px yellow;
+}
+
+.teste {
+  background-color: white;
+}
+
+.icon {
+  font-size: 27px;
+  color: #27049b;
+}
+
+.iconSmart {
+  font-size: 22px;
+  color: #27049b;
+}
+
+.mental {
+  width: 45px;
+}
+
+.mentalSmart {
+  width: 45px;
+}
+
+.bannerText {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: whitesmoke;
+}
+
+.relativo {
+  position: relative;
+}
+
+.absoluto {
+  position: absolute;
+  bottom: 0;
+}
+
+.bannerText {
+  font-size: 12px;
+}
+
+.btn-primary {
+  font-size: 10px;
+}
+
+.atendimento {
+  font-family: "Poiret One", sans-serif;
+}
+
+.psyText {
+  font-size: 15px;
+  line-height: 170%;
+}
+
+.nav-link {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.custom-navbar-nav li a:hover {
+  color: darkblue;
+}
